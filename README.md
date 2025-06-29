@@ -2,10 +2,9 @@
 
 # CuraJOY Cyberbullying Detection Challenge Submission
 
-**Candidate:** [Rose Njuguna]
-**Date:** [06/28/2025]
+**Rose Njuguna**
 
-This repository contains my complete submission for the CuraJOY Impact Fellowship Program's Cyberbullying Detection Challenge.
+CuraJOY Impact Fellowship Program's Cyberbullying Detection Challenge.
 
 ---
 
